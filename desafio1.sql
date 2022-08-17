@@ -86,7 +86,7 @@ VALUES
   ('Bell Hooks', 26, '2018-01-05', 2),
   ('Christopher Alexander', 85, '2019-06-05', 3),
   ('Judith Butler', 45, '2020-05-13', 3),
-  ('Jorge Amado', 58, '2017-02-17', 4);
+  ('Jorge Amado', 58, '2017-02-17', 3);
     
 INSERT INTO album (artist_id, title, release_year)
 VALUES
